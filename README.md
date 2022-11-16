@@ -23,54 +23,40 @@ I've been working with technology since 2009, and during this time I worked with
 
 <h1 align="center"> 🛠️ My Tech Stack </h1>
 
-<a href="Link" title="Python" target="_blank"> <img src="Link_Imagem" width="20" height="20"> </a>
-
 <b>RPA Tools</b><br>
 <a href="https://www.automationanywhere.com" title="Automation Anywhere" target="_blank"> <img src="https://de.automationanywhere.com/images/automation-anywhere-logo-a-only.png" width="25" height="25"> </a>
 <a href="https://www.uipath.com" title="UiPath" target="_blank"> <img src="https://styles.redditmedia.com/t5_2y0ng/styles/communityIcon_rm83hvlif9u31.png" width="25" height="25"> </a>
 <a href="https://www.fortra.com/support/product-releases/automation/automate" title="Automate" target="_blank"> <img src="https://download.cnet.com/a/img/resize/d29991a01c1313c7d7750c41503012ea8c0b8058/catalog/2022/08/25/4d4a56a4-87cb-4772-8704-da522ad5b57a/imgingest-12410390620293962506.png?auto=webp&fit=crop&width=64" width="25" height="25"> </a>
 
+<b>Cloud</b><br>
+<a href="https://learn.microsoft.com/en-us/azure/" title="Azure" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" width="25" height="25"> </a>
+<a href="https://docs.aws.amazon.com/" title="AWS" target="_blank"> <img src="https://image.pngaaa.com/384/3822384-middle.png" width="25" height="25"> </a>
+
 <b>Programming Languages</b><br>
 <a href="https://www.python.org" title="Python" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="25" height="25"> </a>
 <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" title="C++" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="25" height="25"> </a>
+<a href="https://docs.oracle.com/en/java/" title="Java" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="25" height="25"> </a>
 
 
 <b>Frontend Development</b><br>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="HTML5" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="25" height="25"> </a>
 
 <b>Mobile App Developement (beginner)</b><br>
-
-<b>Backend Developement</b><br>
+<a href="https://developer.android.com/docs" title="Android Studio" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226770.png" width="25" height="25"> </a>
 
 <b>Databases</b><br>
-
-<b>Frameworks</b><br>
-
-<b>Backend as a Service (BaaS)</b><br>
+<a href="https://www.oracle.com/database/" title="Oracle" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png" width="25" height="25"> </a>
+<a href="https://learn.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16" title="SQL Server" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="25" height="25"> </a>
+<a href="https://dev.mysql.com/doc/" title="MySQL" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" width="25" height="25"> </a>
+<a href="https://www.postgresql.org/docs/" title="PostgreSQL" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="25" height="25"> </a>
 
 <b>Others</b><br>
-
- 
- 
- 
-
- 
- 
-<ul>
- <li>👩‍💻 Programming Languages</li>
-
-Python  Bash  Scala  Java  Perl  PHP  C 
-
-<li>☁️ Cloud</li>
-
-Azure AWS
-
-<li>🐘 Big Data Stack</li>
-
-Hadoop Spark Hive Impala Presto Kafka HBase Flume Cloudera databricks
-</ul>
-
-<h1 align="left"> 💻Coding Activity </h1>
+<a href="https://www.linux.org/" title="Linux" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2333/2333187.png" width="25" height="25"> </a>
+<a href="https://docs.unity3d.com/Manual/index.html" title="Unity" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" width="25" height="25"> </a>
+<a href="https://scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf" title="SCRUM" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5108/5108922.png" width="25" height="25"> </a>
+<a href="https://docs.servicenow.com/" title="ServiceNow" target="_blank"> <img src="https://image.pngaaa.com/672/6367672-middle.png" width="25" height="25"> </a>
+<a href="https://www.eccouncil.org/ethical-hacking/" title="Ethical Hacking" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/564/564631.png" width="25" height="25"> </a>
 
 
 <h1 align="left"> 📕 Certifications </h1>
@@ -83,9 +69,5 @@ Microsoft Certified: Azure AI Engineer Microsoft Certified: Azure AI Engineer Mi
 CCA Administrator IBM Certified Administrator - Cognos 10 BI
 
 
-<h1 align="center"> Let's connect! Find me on... </h1>
-
-My linkedin My e-mail
-
-Se you!
+See you!
 Thanks!
