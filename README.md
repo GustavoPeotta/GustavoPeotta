@@ -9,7 +9,7 @@
 
 Glad to see you here! ![Profile views](https://gpvc.arturio.dev/GustavoPeotta)
 
-I'm a RPA Developer focused Automation Anywhere 💡 working at <a href="https://www.capgemini.com>Capgemini</a> 🏛, and studing Cloud Tools as Azure and AWS 🎓!
+I'm a RPA Developer focused Automation Anywhere 💡 working at <a href="https://www.capgemini.com">Capgemini</a> 🏛, and studing Cloud Tools as Azure and AWS 🎓!
 
 I've been working with technology since 2009, and during this time I worked with the most diverse types of projects like: network management systems, security and compliance, business Intelligence and big data.
 
