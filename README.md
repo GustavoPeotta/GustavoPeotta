@@ -62,7 +62,11 @@ I've been working with technology since 2009, and during this time I worked with
 <h1 align="left"> 📕 Certifications </h1>
 <b>Current</b>
 
-Microsoft Certified: Azure AI Engineer Microsoft Certified: Azure AI Engineer Microsoft Certified: Azure AI Fundamentals Microsoft Certified: Azure Data Fundamentals AWS Certified Data Analytics – Specialty
+Microsoft Certified: 
+
+<a href="https://www.exin.com/pt-br/data-protection-security/exin-ethical-hacking/exin-ethical-hacking-foundation" title="EXIN Ethical Hacking Foundation" target="_blank"> <img src="https://www.daryus.com.br/wp-content/uploads/2019/10/Ethical-Hacking-Foundation.png" width="30" height="70"> </a>
+
+Azure AI Engineer Microsoft Certified: Azure AI Engineer Microsoft Certified: Azure AI Fundamentals Microsoft Certified: Azure Data Fundamentals AWS Certified Data Analytics – Specialty
 
 <b>Old ones</b>
 
