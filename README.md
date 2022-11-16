@@ -80,6 +80,13 @@ I've been working with technology since 2009, and during this time I worked with
 
 <a href="https://www.exin.com/pt-br/data-protection-security/exin-ethical-hacking/exin-ethical-hacking-foundation" title="EXIN Ethical Hacking Foundation" target="_blank"> <img src="https://www.daryus.com.br/wp-content/uploads/2019/10/Ethical-Hacking-Foundation.png" width="150" height="220"> </a>
 
+<h1 align="center"> 📕 GitHub Stats </h1>
+
+<div align="center">
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPeotta&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoPeotta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 See you!
 Thanks!
