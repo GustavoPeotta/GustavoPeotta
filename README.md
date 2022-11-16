@@ -31,9 +31,9 @@ I've been working with technology since 2009, and during this time I worked with
 <a href="https://www.fortra.com/support/product-releases/automation/automate" title="Automate" target="_blank"> <img src="https://download.cnet.com/a/img/resize/d29991a01c1313c7d7750c41503012ea8c0b8058/catalog/2022/08/25/4d4a56a4-87cb-4772-8704-da522ad5b57a/imgingest-12410390620293962506.png?auto=webp&fit=crop&width=64" width="25" height="25"> </a>
 
 <b>Programming Languages</b><br>
-<a href="https://www.python.org" title="Python" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="20" height="20"> </a>
-<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" title="C++" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="20" height="20"> </a>
+<a href="https://www.python.org" title="Python" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="25" height="25"> </a>
+<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" title="C++" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="25" height="25"> </a>
 
 
 <b>Frontend Development</b><br>
