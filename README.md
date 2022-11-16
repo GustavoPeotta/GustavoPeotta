@@ -1,10 +1,9 @@
 <h1 align="center"> Hey 👋, I'm Gustavo Peotta </h1>
 
 <div>
-<a href="https://www.youtube.com/GustavoPeotta" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/GustavoPeotta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.twitch.tv/GustavoPeotta" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:gustavopeotta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/GustavoPeotta" target="_blank"><img src="https://camo.githubusercontent.com/9f06d17387566e4b887200cde9b29a028633d3c6e63c24a029429f703f222845/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d4534343035463f7374796c653d666c6174266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f696e7374616772616d2e636f6d2f6d2e612e6e2e752e6d2e612e6e2e6f2e6a2f" target="_blank"></a>
+<a href="https://www.facebook.com/GustavoPeotta" target="_blank"><img src="https://camo.githubusercontent.com/7e186438fcc5b17e8029634385e1192704c5901be0e6272fb03b2720d967ca77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46616365626f6f6b2d3138373766323f7374796c653d666c6174266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f66616365626f6f6b2e636f6d2f6d616e756d616e6f6a30303130" target="_blank"></a>
+<a href = "mailto:gustavopeotta@gmail.com"><img src="https://camo.githubusercontent.com/fbc38c9f1e9019a6804262f8f8f3e781f15446fa9e3c6caa8fee249d3ca344de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265643f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6d616e756d616e6f6a3030313040676d61696c2e636f6d" target="_blank"></a>
 <a href="https://www.linkedin.com/in/GustavoPeotta" target="_blank"><img src="https://camo.githubusercontent.com/28a5af3160ab3e597abac96405057372584e2c7201457a505f20cbcdb4a25d73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d626c7565266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d616e756d616e6f6a303031302f" target="_blank"></a>   
 </div>
 
