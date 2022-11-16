@@ -64,7 +64,7 @@ I've been working with technology since 2009, and during this time I worked with
 
 Microsoft Certified: 
 
-<a href="https://learn.microsoft.com/pt-br/certifications/exams/az-900" title="AZ-900" target="_blank"> <img src="https://images.youracclaim.com/size/340x340/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="150" height="220"> </a>
+<a href="https://learn.microsoft.com/pt-br/certifications/exams/az-900" title="AZ-900" target="_blank"> <img src="https://wellingtonagapto.com.br/wp-content/uploads/2022/06/Curso-para-a-certificacao-AZ-900-Microsoft-Azure-Fundamentals.png" width="150" height="220"> </a>
 <a href="https://university.automationanywhere.com/certification/rpa-certification/" title="Advanced RPA Developer" target="_blank"> <img src="https://www.igmguru.com/uploads/products/automation-anywhere-rpa-igmguru_34566654_xl.jpg" width="150" height="220"> </a>
 
 <b>Old ones</b>
