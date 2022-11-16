@@ -9,28 +9,19 @@
 
 Glad to see you here! ![Profile views](https://gpvc.arturio.dev/GustavoPeotta)
 
-![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPeotta&theme=tokyonight&show_icons=true)
-
-I'm a RPA Developer focused Automation Anywhere.
+I'm a RPA Developer focused Automation Anywhere 💡 working at <a href="https://www.capgemini.com>Capgemini</a> 🏛, and studing Cloud Tools as Azure and AWS 🎓!
 
 I've been working with technology since 2009, and during this time I worked with the most diverse types of projects like: network management systems, security and compliance, business Intelligence and big data.
 
-Take a look in some data projects which have already been making the world a better place: AI for Good.
-
-
-<h1 align="left"> 👩‍💻 About me </h1>
+<h3 align="left"> More about me </h3>
 <ul>
  <li>I'm from Brazil</li>
  <li>Love Programming</li>
- <li>My favorite programming language is Python</li>
- <li>👩‍🏫 Love teaching and sharing knowledge</li>
- <li>As a challenge enthusiastic, I am diving into the data science world</li>
- <li>🏞️ Traveling is one of my favorite hobbies, as you can see from the image above, Emerald Lake is one of the most beatiful places that I have ever been to
- <li>Frodo is the best friend I have, and guess what? He has four paws 🐾🐾</li>
- <li>I already played in an orquestra in my college days, I played the transversal flute!</li>
+ <li>Currently working, learning and growing my skillset in Cloud Computing, Service Now and Process Mining</li>
+ <li>Love teaching and sharing knowledge</li>
 </ul>
   
-<h1 align="left"> 🛠️Tech Stack </h1>
+<h3 align="left"> 🛠️Tech Stack </h3>
 
 <ul>
  <li>👩‍💻 Programming Languages</li>
