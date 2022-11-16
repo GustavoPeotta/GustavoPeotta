@@ -28,7 +28,7 @@ I've been working with technology since 2009, and during this time I worked with
 <b>RPA Tools</b><br>
 <a href="https://www.automationanywhere.com" title="Automation Anywhere" target="_blank"> <img src="https://de.automationanywhere.com/images/automation-anywhere-logo-a-only.png" width="25" height="25"> </a>
 <a href="https://www.uipath.com" title="UiPath" target="_blank"> <img src="https://styles.redditmedia.com/t5_2y0ng/styles/communityIcon_rm83hvlif9u31.png" width="25" height="25"> </a>
-<a href="https://www.fortra.com/support/product-releases/automation/automate" title="Automate" target="_blank"> <img src="https://download.cnet.com/a/img/resize/d29991a01c1313c7d7750c41503012ea8c0b8058/catalog/2022/08/25/4d4a56a4-87cb-4772-8704-da522ad5b57a/imgingest-12410390620293962506.png" width="25" height="25"> </a>
+<a href="https://www.fortra.com/support/product-releases/automation/automate" title="Automate" target="_blank"> <img src="https://download.cnet.com/a/img/resize/d29991a01c1313c7d7750c41503012ea8c0b8058/catalog/2022/08/25/4d4a56a4-87cb-4772-8704-da522ad5b57a/imgingest-12410390620293962506.png?auto=webp&fit=crop&width=64" width="25" height="25"> </a>
 
 <b>Programming Languages</b><br>
 <a href="https://www.python.org" title="Python" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"> </a>
