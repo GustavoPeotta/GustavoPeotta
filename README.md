@@ -23,17 +23,30 @@ I've been working with technology since 2009, and during this time I worked with
 
 <h1 align="center"> 🛠️ My Tech Stack </h1>
 
+<a href="Link" title="Python" target="_blank"> <img src="Link_Imagem" width="20" height="20"> </a>
+
+<b>RPA Tools</b><br>
+<a href="https://www.automationanywhere.com" title="Automation Anywhere" target="_blank"> <img src="https://de.automationanywhere.com/images/automation-anywhere-logo-a-only.png" width="20" height="20"> </a>
+<a href="https://www.uipath.com" title="UiPath" target="_blank"> <img src="https://styles.redditmedia.com/t5_2y0ng/styles/communityIcon_rm83hvlif9u31.png" width="20" height="20"> </a>
+
 <b>Programming Languages</b><br>
+<a href="https://www.python.org" title="Python" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"> </a>
+
 <b>Frontend Development</b><br>
+
 <b>Mobile App Developement (beginner)</b><br>
+
 <b>Backend Developement</b><br>
+
 <b>Databases</b><br>
+
 <b>Frameworks</b><br>
+
 <b>Backend as a Service (BaaS)</b><br>
+
 <b>Others</b><br>
 
- <a href="https://www.python.org" title="Python" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"> </a>
- <a href="https://www.automationanywhere.com" title="Automation Anywhere" target="_blank"> <img src="https://de.automationanywhere.com/images/automation-anywhere-logo-a-only.png" width="20" height="20"> </a>
+ 
  
  
 
