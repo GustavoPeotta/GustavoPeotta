@@ -11,7 +11,7 @@
 
 Glad to see you here! ![Profile views](https://gpvc.arturio.dev/GustavoPeotta)
 
-<br><br>
+<br>
 
 I'm a RPA Developer focused Automation Anywhere 💡 working at <a href="https://www.capgemini.com">Capgemini</a> 🏛, and studing Cloud Tools as Azure and AWS 🎓!
 
@@ -25,7 +25,7 @@ I've been working with technology since 2009, and during this time I worked with
  <li>Love teaching and sharing knowledge</li>
 </ul>
 
-<br><br><br>
+<br><br>
 
 <h1 align="center"> 🛠️ My Tech Stack </h1>
 
@@ -68,9 +68,9 @@ I've been working with technology since 2009, and during this time I worked with
 <a href="https://flutter.dev/" title="Flutter" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25" height="25"> </a>
 <a href="https://kotlinlang.org/" title="Kotlin" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="25" height="25"> </a>
 
-<br><br><br>
+<br><br>
 
-<h1 align="left"> 📕 Certifications </h1>
+<h1 align="center"> 📕 Certifications </h1>
 <b>Current</b>
 
 <a href="https://learn.microsoft.com/pt-br/certifications/exams/az-900" title="AZ-900" target="_blank"> <img src="https://wellingtonagapto.com.br/wp-content/uploads/2022/06/Curso-para-a-certificacao-AZ-900-Microsoft-Azure-Fundamentals.png" width="300" height="220"> </a>
