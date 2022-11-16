@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/GustavoPeotta" target="_blank"><img src="https://camo.githubusercontent.com/7e186438fcc5b17e8029634385e1192704c5901be0e6272fb03b2720d967ca77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46616365626f6f6b2d3138373766323f7374796c653d666c6174266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f66616365626f6f6b2e636f6d2f6d616e756d616e6f6a30303130" target="_blank"></a>   
 </div>
 
-
+Glad to see you here! ![Profile views](https://gpvc.arturio.dev/GustavoPeotta)
 I'm a RPA Developer focused Automation Anywhere.
 
 I've been working with technology since 2009, and during this time I worked with the most diverse types of projects like: network management systems, security and compliance, business Intelligence and big data.
