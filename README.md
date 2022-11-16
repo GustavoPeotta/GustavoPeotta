@@ -8,6 +8,9 @@
 </div>
 
 Glad to see you here! ![Profile views](https://gpvc.arturio.dev/GustavoPeotta)
+
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoPeotta&theme=tokyonight&show_icons=true)
+
 I'm a RPA Developer focused Automation Anywhere.
 
 I've been working with technology since 2009, and during this time I worked with the most diverse types of projects like: network management systems, security and compliance, business Intelligence and big data.
