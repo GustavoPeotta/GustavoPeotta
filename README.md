@@ -32,6 +32,9 @@ I've been working with technology since 2009, and during this time I worked with
 
 <b>Programming Languages</b><br>
 <a href="https://www.python.org" title="Python" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20"> </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="20" height="20"> </a>
+<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" title="C++" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="20" height="20"> </a>
+
 
 <b>Frontend Development</b><br>
 
