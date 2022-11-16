@@ -1,56 +1,56 @@
 <h1 align="center"> Hi, welcome to my GitHub! </h1>
 
-I'm a cloud solution architect focused on data and AI at Microsoft.
+I'm a RPA Developer focused Automation Anywhere.
 
-I've been working with technology since 2012, and during this time I worked with the most diverse types of projects like: gamming programming, web programming, network management systems, business Intelligence and big data (data engineering and architecture).
-
-What has enchanted me the most is working with data projects seen that today we have a huge amount of data everywhere and by using the right technologies, we can get answers to solve big problems, impacting all society and making the world a better place.
+I've been working with technology since 2009, and during this time I worked with the most diverse types of projects like: network management systems, security and compliance, business Intelligence and big data.
 
 Take a look in some data projects which have already been making the world a better place: AI for Good.
 
 
-👩‍💻 About me
-Brazil I'm from Brazil
- Love Programming
- My favorite programming language is Python
-👩‍🏫 Love teaching and sharing knowledge
- As a challenge enthusiastic, I am diving into the data science world
-🏞️ Traveling is one of my favorite hobbies, as you can see from the image above, Emerald Lake is one of the most beatiful places that I have ever been to
- Frodo is the best friend I have, and guess what? He has four paws 🐾🐾
- I already played in an orquestra in my college days, I played the transversal flute!
+<h1 align="left"> 👩‍💻 About me </h1>
+<ul>
+ <li>I'm from Brazil</li>
+ <li>Love Programming</li>
+ <li>My favorite programming language is Python</li>
+ <li>👩‍🏫 Love teaching and sharing knowledge</li>
+ <li>As a challenge enthusiastic, I am diving into the data science world</li>
+ <li>🏞️ Traveling is one of my favorite hobbies, as you can see from the image above, Emerald Lake is one of the most beatiful places that I have ever been to
+ <li>Frodo is the best friend I have, and guess what? He has four paws 🐾🐾</li>
+ <li>I already played in an orquestra in my college days, I played the transversal flute!</li>
+</ul>
+  
+<h1 align="left"> 🛠️Tech Stack </h1>
 
-🛠️Tech Stack
-👩‍💻 Programming Languages
+<ul>
+ <li>👩‍💻 Programming Languages</li>
 
 Python  Bash  Scala  Java  Perl  PHP  C 
 
-☁️ Cloud
+<li>☁️ Cloud</li>
 
 Azure AWS
 
-🐘 Big Data Stack
+<li>🐘 Big Data Stack</li>
 
 Hadoop Spark Hive Impala Presto Kafka HBase Flume Cloudera databricks
+</ul>
+
+<h1 align="left"> 💻Coding Activity </h1>
 
 
-💻Coding Activity
-
-
-📕 Certifications
-Current
+<h1 align="left"> 📕 Certifications </h1>
+<b>Current</b>
 
 Microsoft Certified: Azure AI Engineer Microsoft Certified: Azure AI Engineer Microsoft Certified: Azure AI Fundamentals Microsoft Certified: Azure Data Fundamentals AWS Certified Data Analytics – Specialty
 
-Old ones
+<b>Old ones</b>
 
 CCA Administrator IBM Certified Administrator - Cognos 10 BI
 
-Let's connect! Find me on...
+
+<h1 align="center"> Let's connect! Find me on... </h1>
 
 My linkedin My e-mail
 
 Se you!
-
-This is how I feel when I am programming \o/
-
-ViewCount Thanks!
+Thanks!
