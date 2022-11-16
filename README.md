@@ -20,9 +20,9 @@ I've been working with technology since 2009, and during this time I worked with
  <li>Currently working, learning and growing my skillset in Cloud Computing, Service Now and Process Mining</li>
  <li>Love teaching and sharing knowledge</li>
 </ul>
-  
-<h3 align="left"> 🛠️Tech Stack </h3>
 
+<h1 align="center"> 🛠️ My Tech Stack </h1>
+  
 <ul>
  <li>👩‍💻 Programming Languages</li>
 
