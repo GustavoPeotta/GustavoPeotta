@@ -1,5 +1,7 @@
 <h1 align="center"> Hey 👋, I'm Gustavo Peotta </h1>
 
+<br>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/GustavoPeotta" target="_blank"><img src="https://camo.githubusercontent.com/28a5af3160ab3e597abac96405057372584e2c7201457a505f20cbcdb4a25d73/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d626c7565266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d616e756d616e6f6a303031302f" target="_blank"></a>
 <a href = "mailto:gustavopeotta@gmail.com"><img src="https://camo.githubusercontent.com/fbc38c9f1e9019a6804262f8f8f3e781f15446fa9e3c6caa8fee249d3ca344de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d7265643f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a6d616e756d616e6f6a3030313040676d61696c2e636f6d" target="_blank"></a>
@@ -8,6 +10,8 @@
 </div>
 
 Glad to see you here! ![Profile views](https://gpvc.arturio.dev/GustavoPeotta)
+
+<br><br>
 
 I'm a RPA Developer focused Automation Anywhere 💡 working at <a href="https://www.capgemini.com">Capgemini</a> 🏛, and studing Cloud Tools as Azure and AWS 🎓!
 
@@ -20,6 +24,8 @@ I've been working with technology since 2009, and during this time I worked with
  <li>Currently working, learning and growing my skillset in Cloud Computing, Service Now and Process Mining</li>
  <li>Love teaching and sharing knowledge</li>
 </ul>
+
+<br><br><br>
 
 <h1 align="center"> 🛠️ My Tech Stack </h1>
 
@@ -37,7 +43,6 @@ I've been working with technology since 2009, and during this time I worked with
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="25" height="25"> </a>
 <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" title="C++" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="25" height="25"> </a>
 <a href="https://docs.oracle.com/en/java/" title="Java" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="25" height="25"> </a>
-
 
 <b>Frontend Development</b><br>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" title="HTML5" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" width="25" height="25"> </a>
@@ -63,8 +68,7 @@ I've been working with technology since 2009, and during this time I worked with
 <a href="https://flutter.dev/" title="Flutter" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="25" height="25"> </a>
 <a href="https://kotlinlang.org/" title="Kotlin" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="25" height="25"> </a>
 
-
-
+<br><br><br>
 
 <h1 align="left"> 📕 Certifications </h1>
 <b>Current</b>
