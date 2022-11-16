@@ -26,15 +26,15 @@ I've been working with technology since 2009, and during this time I worked with
  <a href="https://www.python.org" title="Python" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"> </a>
  
  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"></a>
- <a href="https://www.automationanywhere.com" target="_blank"><img src="https://de.automationanywhere.com/images/automation-anywhere-logo-a-only.png" width="30" height="30" alt="Automation Anywhere"></a>
- <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"></a>
- <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"></a>
- <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"></a>
- <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"></a>
- <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"></a>
- <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"></a>
- <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"></a>
- <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"></a>
+ <a href="https://www.automationanywhere.com" target="_blank"><img src="https://de.automationanywhere.com/images/automation-anywhere-logo-a-only.png" alt="Automation Anywhere" width="20" height="20"></a>
+ <a href="Link" target="_blank"><img src="Link_Imagem" alt="Python" width="20" height="20"></a>
+ <a href="Link" target="_blank"><img src="Link_Imagem" alt="Python" width="20" height="20"></a>
+ <a href="Link" target="_blank"><img src="Link_Imagem" alt="Python" width="20" height="20"></a>
+ <a href="Link" target="_blank"><img src="Link_Imagem" alt="Python" width="20" height="20"></a>
+
+ 
+
+ 
  
 <ul>
  <li>👩‍💻 Programming Languages</li>
