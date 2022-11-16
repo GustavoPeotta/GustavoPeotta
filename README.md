@@ -22,7 +22,9 @@ I've been working with technology since 2009, and during this time I worked with
 </ul>
 
 <h1 align="center"> 🛠️ My Tech Stack </h1>
-  
+ 
+ <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"></a>
+ 
 <ul>
  <li>👩‍💻 Programming Languages</li>
 
